@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayPoint", "PayPoint\PayPoint.csproj", "{78290123-64FC-4F1D-A3A0-9973426EE926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78290123-64FC-4F1D-A3A0-9973426EE926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78290123-64FC-4F1D-A3A0-9973426EE926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78290123-64FC-4F1D-A3A0-9973426EE926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78290123-64FC-4F1D-A3A0-9973426EE926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65FA53FC-078E-4CBA-BAF5-83F944D07CC9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Code\source\repos\PayPoint\PayPoint\bin\Debug\netcoreapp2.2\PayPoint.deps.json
+C:\Users\Code\source\repos\PayPoint\PayPoint\bin\Debug\netcoreapp2.2\PayPoint.runtimeconfig.json
+C:\Users\Code\source\repos\PayPoint\PayPoint\bin\Debug\netcoreapp2.2\PayPoint.runtimeconfig.dev.json
+C:\Users\Code\source\repos\PayPoint\PayPoint\bin\Debug\netcoreapp2.2\PayPoint.dll
+C:\Users\Code\source\repos\PayPoint\PayPoint\bin\Debug\netcoreapp2.2\PayPoint.pdb
+C:\Users\Code\source\repos\PayPoint\PayPoint\obj\Debug\netcoreapp2.2\PayPoint.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\PayPoint\PayPoint\obj\Debug\netcoreapp2.2\PayPoint.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\PayPoint\PayPoint\obj\Debug\netcoreapp2.2\PayPoint.AssemblyInfo.cs
+C:\Users\Code\source\repos\PayPoint\PayPoint\obj\Debug\netcoreapp2.2\PayPoint.dll
+C:\Users\Code\source\repos\PayPoint\PayPoint\obj\Debug\netcoreapp2.2\PayPoint.pdb
